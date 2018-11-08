@@ -13,4 +13,4 @@ title = "StatusKit"
 # You'll be able to change their status every time
 # you open or update an incident.
 # Replace these examples with your own system names.
-systems = ["API", "CDN", "DNS", "Site delivery"]
+systems = ["Account Services", "Glo Real-time Sync", "Glo GitHub Sync", "API", "Webhooks"]
